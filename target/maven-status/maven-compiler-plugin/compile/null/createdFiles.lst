@@ -1,0 +1,12 @@
+br\com\resource\PedidoResource.class
+br\com\service\PedidoService.class
+br\com\exception\MessageError.class
+br\com\exception\GeneralException.class
+br\com\service\ValidatePedidoAndClient.class
+br\com\integration\PedidoIntegration.class
+br\com\domain\ScoreClient.class
+br\com\resource\PedidoAndClientResource.class
+META-INF\panache-archive.marker
+br\com\domain\StatusPedido.class
+br\com\exception\BusinessException.class
+br\com\integration\ClientIntegration.class
